@@ -1,2 +1,2 @@
-# LLM-Scratch-
+# LLM-Scratch
 Building LLMs from scratch
